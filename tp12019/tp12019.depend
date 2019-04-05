@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1554492700 source:d:\cris\desktop\programacion 2019\tp12019\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1554491877 d:\cris\desktop\programacion 2019\tp12019\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1554493701 source:d:\cris\desktop\programacion 2019\tp12019\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<ctype.h>
+
